@@ -1,0 +1,116 @@
+{
+
+  "campaigns": [
+    { "id": "1", "label": "ECI/FV Verticales OI [2016]", "items": [
+      { "id": "11", "icon": "card_giftcard", "label": "BLACK FRIDAY 2016", "caption": "0306 / 20129", "info": "24/11/2016 27/11/2016" },
+      { "id": "12", "icon": "card_giftcard", "label": "BLACK FRIDAY CLUB DEL GOURMET", "caption": "0166 / 21354", "info": "24/11/2016 27/11/2016" },
+      { "id": "13", "icon": "card_giftcard", "label": "BLACK FRIDAY SUPERMERCADO", "caption": "0212 / 20364", "info": "24/11/2016 27/11/2016" },
+      { "id": "14", "icon": "card_giftcard", "label": "MASCOTAS BLACK FRIDAY SUPERMERCADO", "caption": "0166 / 21059", "info": "24/11/2016 27/11/2016" },
+      { "id": "15", "icon": "card_giftcard", "label": "MOTOR TOWN BLACK FRIDAY 2016", "caption": "1168 / 21510", "info": "24/11/2016 27/11/2016" }
+    ]},
+    { "id": "2", "label": "Clientes Moda [2016]", "items": [
+      { "id": "21", "icon": "card_giftcard", "label": "YA ES PRIMAVERA",        "caption": "0000 / 00000", "info": "10/11/2016 12/11/2016" }
+    ]},
+    { "id": "3", "label": "Clientes Hogar", "items": [
+      { "id": "33", "icon": "card_giftcard", "label": "ACCESORIOS DE INVIERNO", "caption": "0000 / 00000", "info": "10/11/2016 12/11/2016" },
+      { "id": "33", "icon": "card_giftcard", "label": "ACCESORIOS RRSS",        "caption": "0000 / 00000", "info": "10/11/2016 12/11/2016" }
+    ]}
+  ],
+
+  "materials": [
+    {
+      "id": "00001",
+      "mounting": "Banderola Glasspack",
+      "formats": ["60x140"]
+    },
+    {
+      "id": "00002",
+      "mounting": "Canal Medio",
+      "formats": ["200x100"]
+    },
+    {
+      "id": "00003",
+      "mounting": "Carton Compacto",
+      "formats": ["3mm"]
+    },
+    {
+      "id": "00004",
+      "mounting": "Cartulina",
+      "formats": ["12cm"]
+    },
+    {
+      "id": "00005",
+      "mounting": "Cartulina Folding",
+      "formats": [ "48x78","70x116,66","71x57","81x57","91x150","110x90","110x60","110x57" ]
+    },
+    {
+      "id": "00006",
+      "mounting": "Flecha PVC",
+      "formats": ["70x100"]
+    },
+    {
+      "id": "00007",
+      "mounting": "Foam",
+      "formats": ["110x230"]
+    },
+    {
+      "id": "00008",
+      "mounting": "Glasspack",
+      "formats": ["11x80"]
+    },
+    {
+      "id": "00009",
+      "mounting": "Glasspack",
+      "formats": ["15cm","18cm","6.5cm"]
+    },
+    {
+      "id": "00010",
+      "mounting": "Microcanal Doble",
+      "formats": ["45x126","100x30","100x50","120x90","150x50"]
+    },
+    {
+      "id": "00011",
+      "mounting": "Microcanal Sencillo",
+      "formats": ["40x60","43x200","50x70","50x250","60x80","82x43"]
+    },
+    {
+      "id": "00012",
+      "mounting": "Microcanal Sencillo A2",
+      "formats": ["42x59,4"]
+    },
+    {
+      "id": "00013",
+      "mounting": "Microcanal Sencillo Sandwich",
+      "formats": ["45x126", "100x30", "150x50"]
+    },
+    {
+      "id": "00014",
+      "mounting": "Papel Luminosos",
+      "formats": ["70x100"]
+    },
+    {
+      "id": "00015",
+      "mounting": "PVC",
+      "formats": ["45x126","50x70","60x80","100x30","100x50","150x50"]
+    },
+    {
+      "id": "00016",
+      "mounting": "Vinilo",
+      "formats": ["20cm"]
+    },
+    {
+      "id": "00017",
+      "mounting": "Vinilo Suelo",
+      "formats": ["150x30","96cm"]
+    }
+  ],
+
+
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
