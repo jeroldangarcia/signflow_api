@@ -17,91 +17,149 @@
     ]}
   ],
 
+  "subcampaigns": [
+    { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"},
+    { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
+    { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"},
+    { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - Black Friday 2016"}
+  ],
+
   "materials": [
     {
       "id": "00001",
       "mounting": "Banderola Glasspack",
-      "formats": ["60x140"]
+      "formats": ["60x140"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00002",
       "mounting": "Canal Medio",
-      "formats": ["200x100"]
+      "formats": ["200x100"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00003",
       "mounting": "Carton Compacto",
-      "formats": ["3mm"]
+      "formats": ["3mm"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00004",
       "mounting": "Cartulina",
-      "formats": ["12cm"]
+      "formats": ["12cm"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00005",
       "mounting": "Cartulina Folding",
-      "formats": [ "48x78","70x116,66","71x57","81x57","91x150","110x90","110x60","110x57" ]
+      "formats": [ "48x78","70x116,66","71x57","81x57","91x150","110x90","110x60","110x57" ],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00006",
       "mounting": "Flecha PVC",
-      "formats": ["70x100"]
+      "formats": ["70x100"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00007",
       "mounting": "Foam",
-      "formats": ["110x230"]
+      "formats": ["110x230"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00008",
       "mounting": "Glasspack",
-      "formats": ["11x80"]
+      "formats": ["11x80"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00009",
       "mounting": "Glasspack",
-      "formats": ["15cm","18cm","6.5cm"]
+      "formats": ["15cm","18cm","6.5cm"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00010",
       "mounting": "Microcanal Doble",
-      "formats": ["45x126","100x30","100x50","120x90","150x50"]
+      "formats": ["45x126","100x30","100x50","120x90","150x50"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00011",
       "mounting": "Microcanal Sencillo",
-      "formats": ["40x60","43x200","50x70","50x250","60x80","82x43"]
+      "formats": ["40x60","43x200","50x70","50x250","60x80","82x43"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00012",
       "mounting": "Microcanal Sencillo A2",
-      "formats": ["42x59,4"]
+      "formats": ["42x59,4"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00013",
       "mounting": "Microcanal Sencillo Sandwich",
-      "formats": ["45x126", "100x30", "150x50"]
+      "formats": ["45x126", "100x30", "150x50"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00014",
       "mounting": "Papel Luminosos",
-      "formats": ["70x100"]
+      "formats": ["70x100"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00015",
       "mounting": "PVC",
-      "formats": ["45x126","50x70","60x80","100x30","100x50","150x50"]
+      "formats": ["45x126","50x70","60x80","100x30","100x50","150x50"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00016",
       "mounting": "Vinilo",
-      "formats": ["20cm"]
+      "formats": ["20cm"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     },
     {
       "id": "00017",
       "mounting": "Vinilo Suelo",
-      "formats": ["150x30","96cm"]
+      "formats": ["150x30","96cm"],
+      "providers" : [
+        { "id": "", "name": "", "workload": ""}
+      ]
     }
   ],
 

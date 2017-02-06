@@ -13,7 +13,7 @@ const users = {
     "name":"Pedro",
     "family_name":"López",
     "login":"p_lopez",
-    "roles":["compras"]
+    "rol":"compras"
   },
   d_echebarria: {
     "_id":"58505fc215d14cd1de5cc03c",
@@ -21,7 +21,7 @@ const users = {
     "name":"David",
     "family_name":"Echebarria",
     "login":"d_echebarria",
-    "roles":["marketing"]
+    "rol":"marketing"
   },
   j_huete: {
     "_id":"58505fc215d14cd1de5cc03c",
@@ -29,15 +29,31 @@ const users = {
     "name":"Julio",
     "family_name":"Huete",
     "login":"j_huete",
-    "roles":["ppv"]
+    "rol":"ppv"
+  },
+  admin: {
+    "_id":"58505fc215d14cd1de5cc03c",
+    "email":"j_rayon@eci.es",
+    "name":"Javier",
+    "family_name":"Rayon",
+    "login":"admin",
+    "rol":"realizacion"
   },
   j_rayon: {
     "_id":"58505fc215d14cd1de5cc03c",
     "email":"j_rayon@eci.es",
     "name":"Javier",
     "family_name":"Rayon",
-    "login":"j_rayon",
-    "roles":["realizacion"]
+    "login":"admin",
+    "rol":"realizacion"
+  },
+  p_mercado: {
+    "_id":"58505fc215d14cd1de5cc03c",
+    "email":"p_mercado@eci.es",
+    "name":"Paco",
+    "family_name":"Mercado",
+    "login":"p_mercado",
+    "rol":"artefinal"
   },
 }
 
