@@ -1,6 +1,81 @@
 {
 
   "campaigns": [
+      { "id": "11",
+        "color": "#FF8888",
+        "title": "BLACK FRIDAY 2016",
+        "caption": "0306 / 20129",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "ECI/FV Verticales OI [2016]"
+      },
+      { "id": "12",
+        "color": "#88AA88",
+        "title": "BLACK FRIDAY CLUB DEL GOURMET",
+        "caption": "0166 / 21354",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
+        "groupBy": "ECI/FV Verticales OI [2016]"
+      },
+      { "id": "13",
+        "color": "#8888AA",
+        "title": "BLACK FRIDAY SUPERMERCADO",
+        "caption": "0212 / 20364",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg",
+        "groupBy": "ECI/FV Verticales OI [2016]"
+      },
+      { "id": "14",
+        "color": "#6688DD",
+        "title": "MASCOTAS BLACK FRIDAY SUPERMERCADO",
+        "caption": "0166 / 21059",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/2.jpg",
+        "groupBy": "ECI/FV Verticales OI [2016]"
+      },
+      { "id": "15",
+        "color": "#66AAAA",
+        "title": "Caza Clientes OI 2017",
+        "caption": "0130 / 22132",
+        "date1": { "month": "OCT", "day": "1"  },
+        "date2": { "month": "DIC", "day": "31"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/62.jpg",
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+      },
+      { "id": "21",
+        "color": "#FF8888",
+        "title": "Ciclismo Clientes OI 2017",
+        "caption": "0130 / 22131",
+        "date1": { "month": "OCT", "day": "1"  },
+        "date2": { "month": "DIC", "day": "31"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg",
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+      },
+      { "id": "33",
+        "color": "#88AA88",
+        "title": "Ciclismo Clientes PV 2017",
+        "caption": "0130 / 22113",
+        "date1": { "month": "MAR", "day": "1"  },
+        "date2": { "month": "JUN", "day": "30"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/62.jpg",
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+      },
+      { "id": "33",
+        "color": "#66AAAA",
+        "title": "Fitness CLientes PV 2017",
+        "caption": "0130 / 22111",
+        "date1": { "month": "MAR", "day": "1"  },
+        "date2": { "month": "JUN", "day": "30"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+      }
+  ],
+
+  "campaigns2": [
     { "id": "1", "label": "ECI/FV Verticales OI [2016]", "items": [
       { "id": "11", "icon": "card_giftcard", "label": "BLACK FRIDAY 2016", "caption": "0306 / 20129", "info": "24/11/2016 27/11/2016" },
       { "id": "12", "icon": "card_giftcard", "label": "BLACK FRIDAY CLUB DEL GOURMET", "caption": "0166 / 21354", "info": "24/11/2016 27/11/2016" },
@@ -8,12 +83,8 @@
       { "id": "14", "icon": "card_giftcard", "label": "MASCOTAS BLACK FRIDAY SUPERMERCADO", "caption": "0166 / 21059", "info": "24/11/2016 27/11/2016" },
       { "id": "15", "icon": "card_giftcard", "label": "MOTOR TOWN BLACK FRIDAY 2016", "caption": "1168 / 21510", "info": "24/11/2016 27/11/2016" }
     ]},
-    { "id": "2", "label": "Clientes Moda [2016]", "items": [
+    { "id": "2", "label": "CO-CAMPAÑAS CLIENTES CULTURA, OCIO Y DEPORTES OI 2016", "items": [
       { "id": "21", "icon": "card_giftcard", "label": "YA ES PRIMAVERA",        "caption": "0000 / 00000", "info": "10/11/2016 12/11/2016" }
-    ]},
-    { "id": "3", "label": "Clientes Hogar", "items": [
-      { "id": "33", "icon": "card_giftcard", "label": "ACCESORIOS DE INVIERNO", "caption": "0000 / 00000", "info": "10/11/2016 12/11/2016" },
-      { "id": "33", "icon": "card_giftcard", "label": "ACCESORIOS RRSS",        "caption": "0000 / 00000", "info": "10/11/2016 12/11/2016" }
     ]}
   ],
 
