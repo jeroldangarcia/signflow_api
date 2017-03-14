@@ -15,12 +15,12 @@ const users = {
     "login":"p_lopez",
     "rol":"compras"
   },
-  d_echebarria: {
+  d_echevarria: {
     "_id":"58505fc215d14cd1de5cc03c",
-    "email":"d_echebarria@eci.es",
+    "email":"d_echevarria@eci.es",
     "name":"David",
-    "family_name":"Echebarria",
-    "login":"d_echebarria",
+    "family_name":"Echevarria",
+    "login":"d_echevarria",
     "rol":"marketing"
   },
   j_huete: {
