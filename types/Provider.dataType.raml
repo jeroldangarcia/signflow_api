@@ -1,0 +1,12 @@
+#%RAML 1.0 DataType
+
+usage: provides a type that stores provider information
+description: A simple Provider
+
+properties:
+  id: string
+  email: !include Email.dataType.raml
+  name: string
+  familyName: string
+  login: string
+  rol: string

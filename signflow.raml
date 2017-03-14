@@ -1,0 +1,51 @@
+#%RAML 1.0
+title: ECI Signflow API
+version: v1
+baseUri: http://localhost:5000/
+mediaType:  application/json
+
+resourceTypes:
+  collection: !include resourceTypes/collection.resourceType.raml # include ResourceType fragment
+
+types:
+  User: !include types/User.dataType.raml
+  Material: !include types/Material.datatype.raml
+  Campaign: !include types/Campaign.dataType.raml
+
+/users:
+  type: collection
+
+/users/{id}:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            type: User
+
+
+/materials:
+  type: collection
+
+/materials/{id}:
+  get:
+    responses:
+      200:
+        body:
+          application/json:
+            type: Material
+
+/campaigns:
+  type: collection
+
+/campaigns/{id}:
+  get:
+    headers:
+      Accept:
+        required: true
+        enum: [ application/campaign-json ]
+    responses:
+      200:
+        body:
+          application/json:
+            type: Campaign

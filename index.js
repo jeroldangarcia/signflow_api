@@ -58,7 +58,6 @@ const users = {
 }
 
 server.post('/authenticate', function (req, res) {
-  console.log(req.body)
   res.jsonp({
     success: true,
     token: req.body.login,

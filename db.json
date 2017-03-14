@@ -8,7 +8,13 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
-        "groupBy": "ECI/FV Verticales OI [2016]"
+        "groupBy": "ECI/FV Verticales OI [2016]",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"},
+            { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
+            { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"},
+            { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - Black Friday 2016"}
+          ]
       },
       { "id": "12",
         "color": "#88AA88",
@@ -17,7 +23,10 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
-        "groupBy": "ECI/FV Verticales OI [2016]"
+        "groupBy": "ECI/FV Verticales OI [2016]",
+        "subcampaigns": [
+            { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"}
+          ]
       },
       { "id": "13",
         "color": "#8888AA",
@@ -26,7 +35,11 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg",
-        "groupBy": "ECI/FV Verticales OI [2016]"
+        "groupBy": "ECI/FV Verticales OI [2016]",
+        "subcampaigns": [
+            { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
+            { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - Black Friday 2016"}
+          ]
       },
       { "id": "14",
         "color": "#6688DD",
@@ -35,7 +48,11 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/2.jpg",
-        "groupBy": "ECI/FV Verticales OI [2016]"
+        "groupBy": "ECI/FV Verticales OI [2016]",
+        "subcampaigns": [
+            { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
+            { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"}
+          ]
       },
       { "id": "15",
         "color": "#66AAAA",
@@ -44,7 +61,10 @@
         "date1": { "month": "OCT", "day": "1"  },
         "date2": { "month": "DIC", "day": "31"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/62.jpg",
-        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+          ]
       },
       { "id": "21",
         "color": "#FF8888",
@@ -53,7 +73,10 @@
         "date1": { "month": "OCT", "day": "1"  },
         "date2": { "month": "DIC", "day": "31"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg",
-        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+          ]
       },
       { "id": "33",
         "color": "#88AA88",
@@ -62,16 +85,112 @@
         "date1": { "month": "MAR", "day": "1"  },
         "date2": { "month": "JUN", "day": "30"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/62.jpg",
-        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+          ]
       },
-      { "id": "33",
+      { "id": "34",
         "color": "#66AAAA",
         "title": "Fitness CLientes PV 2017",
         "caption": "0130 / 22111",
         "date1": { "month": "MAR", "day": "1"  },
         "date2": { "month": "JUN", "day": "30"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
-        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )"
+        "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+          ]
+      },
+      { "id": "41",
+        "color": "#FF8888",
+        "title": "MKT-ACTIVIDADES LOCALES 2016",
+        "caption": "0306 / 20129",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "MKT-ACTIVIDADES LOCALES 2016",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+          ]
+      },
+      { "id": "42",
+        "color": "#FF8888",
+        "title": "MKT-ACTIVIDADES LOCALES 2017",
+        "caption": "0306 / 20129",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "MKT-ACTIVIDADES LOCALES 2017",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - Actividades Locales"}
+          ]
+      },
+      { "id": "43",
+        "color": "#FF8888",
+        "title": "MKT-RRSS 2016/2017",
+        "caption": "0306 / 20129",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "MKT-RRSS 2016/2017",
+        "subcampaigns": [
+            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - MKT RRSS"}
+          ]
+      },
+      { "id": "44",
+        "color": "#FF8888",
+        "title": "MKT-RRSS 2017/2018",
+        "caption": "0306 / 20129",
+        "date1": { "month": "OCT", "day": "5"  },
+        "date2": { "month": "OCT", "day": "8"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "MKT-RRSS 2017/2018",
+        "subcampaigns": [
+            { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - MKT-RRSS 2018"}
+          ]
+      },
+      { "id": "50",
+        "color": "#FF8888",
+        "title": "REBAJAS DE INVIERNO 2017 - ENERO Y FEBRERO",
+        "caption": "1274 / 20131",
+        "date1": { "month": "ENE", "day": "3"  },
+        "date2": { "month": "FEB", "day": "28"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "FV-REBAJAS OI 2017",
+        "subcampaigns": [
+            { "id": "20064", "state": "Creada", "type": "Directa"            , "name": "Rebajas Invierno 2017"},
+            { "id": "22588", "state": "Creada", "type": "Directa - Catalogo" , "name": "PreRebajas RR.SS Presupuesto Marketing"},
+            { "id": "20538", "state": "Creada", "type": "Directa - Triptico" , "name": "Reabajas Hogar"},
+            { "id": "22596", "state": "Creada", "type": "Directa"            , "name": "Rebajas RR.SS. Presupuesto Marketing"}
+          ]
+      },
+      { "id": "51",
+        "color": "#FF8888",
+        "title": "REBAJAS DE INVIERNO 2017 - RR.SS MARKETING",
+        "caption": "1274 / 22054",
+        "date1": { "month": "ENE", "day": "7"  },
+        "date2": { "month": "FEB", "day": "28"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "FV-REBAJAS OI 2017",
+        "subcampaigns": [
+            { "id": "22596", "state": "Creada", "type": "Directa"            , "name": "Rebajas RR.SS. Presupuesto Marketing"}
+          ]
+      },
+      { "id": "52",
+        "color": "#FF8888",
+        "title": "REBAJAS PRIVADAS DE LENCERIA",
+        "caption": "1274 / 22007",
+        "date1": { "month": "ENE", "day": "25"  },
+        "date2": { "month": "ENE", "day": "31"  },
+        "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupBy": "FV-REBAJAS OI 2017",
+        "subcampaigns": [
+            { "id": "22742", "state": "Creada" , "type": "Directa"   , "name": "Tarjetón"},
+            { "id": "22587", "state": "Creada" , "type": "Directa"   , "name": "Rebajas Privadas de Lenceria "},
+            { "id": "23198", "state": "Creada" , "type": "Media"     , "name": "SMS Rebajas Privadas"},
+            { "id": "22744", "state": "Anulada", "type": "Produccion", "name": "Sobre Tarjetón"}
+          ]
       }
   ],
 
