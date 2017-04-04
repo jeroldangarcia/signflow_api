@@ -8,11 +8,12 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0001",
         "groupBy": "ECI/FV Verticales OI [2016]",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"},
-            { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
-            { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"},
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - PS4"},
+            { "id": "21800", "state": "Creada", "type": "Cartelería - Lona"    , "name": "Black Friday 2016 - Canarias"},
+            { "id": "21434", "state": "Creada", "type": "Cartelería - Triptico"    , "name": "Black Friday Especial (Solo Centros)"},
             { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - Black Friday 2016"}
           ]
       },
@@ -23,9 +24,10 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
+        "groupId": "0001",
         "groupBy": "ECI/FV Verticales OI [2016]",
         "subcampaigns": [
-            { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"}
+            { "id": "21434", "state": "Creada", "type": "Cartelería - Triptico"    , "name": "Black Friday Especial (Solo Centros)"}
           ]
       },
       { "id": "13",
@@ -35,9 +37,10 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg",
+        "groupId": "0001",
         "groupBy": "ECI/FV Verticales OI [2016]",
         "subcampaigns": [
-            { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
+            { "id": "21800", "state": "Creada", "type": "Cartelería - Lona"    , "name": "Black Friday 2016 - Canarias"},
             { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - Black Friday 2016"}
           ]
       },
@@ -48,10 +51,11 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/2.jpg",
+        "groupId": "0001",
         "groupBy": "ECI/FV Verticales OI [2016]",
         "subcampaigns": [
-            { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
-            { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"}
+            { "id": "21800", "state": "Creada", "type": "Cartelería - Lona"    , "name": "Black Friday 2016 - Canarias"},
+            { "id": "21434", "state": "Creada", "type": "Cartelería - Triptico"    , "name": "Black Friday Especial (Solo Centros)"}
           ]
       },
       { "id": "15",
@@ -61,9 +65,10 @@
         "date1": { "month": "OCT", "day": "1"  },
         "date2": { "month": "DIC", "day": "31"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/62.jpg",
+        "groupId": "0002",
         "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - PS4"}
           ]
       },
       { "id": "21",
@@ -73,9 +78,10 @@
         "date1": { "month": "OCT", "day": "1"  },
         "date2": { "month": "DIC", "day": "31"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/32.jpg",
+        "groupId": "0002",
         "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - PS4"}
           ]
       },
       { "id": "33",
@@ -85,9 +91,10 @@
         "date1": { "month": "MAR", "day": "1"  },
         "date2": { "month": "JUN", "day": "30"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/62.jpg",
+        "groupId": "0002",
         "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - PS4"}
           ]
       },
       { "id": "34",
@@ -97,9 +104,10 @@
         "date1": { "month": "MAR", "day": "1"  },
         "date2": { "month": "JUN", "day": "30"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/15.jpg",
+        "groupId": "0002",
         "groupBy": "CO-Campañas Clientes Cultura, Ocio y Deportes 2017  ( 01 Oct 2017 / 31 Dic 2017 )",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - PS4"}
           ]
       },
       { "id": "41",
@@ -109,9 +117,10 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0003",
         "groupBy": "MKT-ACTIVIDADES LOCALES 2016",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"}
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - PS4"}
           ]
       },
       { "id": "42",
@@ -121,9 +130,10 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0004",
         "groupBy": "MKT-ACTIVIDADES LOCALES 2017",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - Actividades Locales"}
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - Actividades Locales"}
           ]
       },
       { "id": "43",
@@ -133,9 +143,10 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0005",
         "groupBy": "MKT-RRSS 2016/2017",
         "subcampaigns": [
-            { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - MKT RRSS"}
+            { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - MKT RRSS"}
           ]
       },
       { "id": "44",
@@ -145,6 +156,7 @@
         "date1": { "month": "OCT", "day": "5"  },
         "date2": { "month": "OCT", "day": "8"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0006",
         "groupBy": "MKT-RRSS 2017/2018",
         "subcampaigns": [
             { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - MKT-RRSS 2018"}
@@ -157,12 +169,13 @@
         "date1": { "month": "ENE", "day": "3"  },
         "date2": { "month": "FEB", "day": "28"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0008",
         "groupBy": "FV-REBAJAS OI 2017",
         "subcampaigns": [
-            { "id": "20064", "state": "Creada", "type": "Directa"            , "name": "Rebajas Invierno 2017"},
-            { "id": "22588", "state": "Creada", "type": "Directa - Catalogo" , "name": "PreRebajas RR.SS Presupuesto Marketing"},
-            { "id": "20538", "state": "Creada", "type": "Directa - Triptico" , "name": "Reabajas Hogar"},
-            { "id": "22596", "state": "Creada", "type": "Directa"            , "name": "Rebajas RR.SS. Presupuesto Marketing"}
+            { "id": "20064", "state": "Creada", "type": "Cartelería"            , "name": "Rebajas Invierno 2017"},
+            { "id": "22588", "state": "Creada", "type": "Cartelería - Lona" , "name": "PreRebajas RR.SS Presupuesto Marketing"},
+            { "id": "20538", "state": "Creada", "type": "Cartelería - Triptico" , "name": "Reabajas Hogar"},
+            { "id": "22596", "state": "Creada", "type": "Cartelería"            , "name": "Rebajas RR.SS. Presupuesto Marketing"}
           ]
       },
       { "id": "51",
@@ -172,9 +185,10 @@
         "date1": { "month": "ENE", "day": "7"  },
         "date2": { "month": "FEB", "day": "28"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0008",
         "groupBy": "FV-REBAJAS OI 2017",
         "subcampaigns": [
-            { "id": "22596", "state": "Creada", "type": "Directa"            , "name": "Rebajas RR.SS. Presupuesto Marketing"}
+            { "id": "22596", "state": "Creada", "type": "Cartelería"            , "name": "Rebajas RR.SS. Presupuesto Marketing"}
           ]
       },
       { "id": "52",
@@ -184,10 +198,11 @@
         "date1": { "month": "ENE", "day": "25"  },
         "date2": { "month": "ENE", "day": "31"  },
         "avatar": "https://randomuser.me/api/portraits/thumb/men/12.jpg",
+        "groupId": "0008",
         "groupBy": "FV-REBAJAS OI 2017",
         "subcampaigns": [
-            { "id": "22742", "state": "Creada" , "type": "Directa"   , "name": "Tarjetón"},
-            { "id": "22587", "state": "Creada" , "type": "Directa"   , "name": "Rebajas Privadas de Lenceria "},
+            { "id": "22742", "state": "Creada" , "type": "Cartelería"   , "name": "Tarjetón"},
+            { "id": "22587", "state": "Creada" , "type": "Cartelería"   , "name": "Rebajas Privadas de Lenceria "},
             { "id": "23198", "state": "Creada" , "type": "Media"     , "name": "SMS Rebajas Privadas"},
             { "id": "22744", "state": "Anulada", "type": "Produccion", "name": "Sobre Tarjetón"}
           ]
@@ -208,9 +223,9 @@
   ],
 
   "subcampaigns": [
-    { "id": "21997", "state": "Creada", "type": "Directa"               , "name": "Flyer - PS4"},
-    { "id": "21800", "state": "Creada", "type": "Directa - Catalogo"    , "name": "Black Friday 2016 - Canarias"},
-    { "id": "21434", "state": "Creada", "type": "Directa - Triptico"    , "name": "Black Friday Especial (Solo Centros)"},
+    { "id": "21997", "state": "Creada", "type": "Cartelería"               , "name": "Flyer - PS4"},
+    { "id": "21800", "state": "Creada", "type": "Cartelería - Lona"    , "name": "Black Friday 2016 - Canarias"},
+    { "id": "21434", "state": "Creada", "type": "Cartelería - Triptico"    , "name": "Black Friday Especial (Solo Centros)"},
     { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - Black Friday 2016"}
   ],
 
