@@ -229,39 +229,199 @@
     { "id": "20062", "state": "Solicitud Material", "type": "Produccion", "name": "Lona - Black Friday 2016"}
   ],
 
-  "materials": [
+  "materials2": [
     {
       "id": "00001",
+      "family": "Carteleria",
       "mounting": "Banderola Glasspack",
-      "formats": ["60x140"],
+      "formats": [
+        { "img": "/img/glasspack.jpg", "name": "60x140" },
+        { "img": "/img/glasspack.jpg", "name": "80x160" },
+        { "img": "/img/glasspack.jpg", "name": "100x180"},
+        { "img": "/img/glasspack.jpg", "name": "120x200"},
+        { "img": "/img/glasspack.jpg", "name": "70x240" },
+        { "img": "/img/glasspack.jpg", "name": "80x260" },
+        { "img": "/img/glasspack.jpg", "name": "100x280"},
+        { "img": "/img/glasspack.jpg", "name": "120x300"}
+      ],
       "providers" : [
-        { "id": "", "name": "", "workload": ""}
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+    {
+      "id": "000030",
+      "family": "Cartón",
+      "mounting": "Microcanal Sencillo",
+      "formats": [
+        { "img": "/img/carton.png", "name": "40x60"    },
+        { "img": "/img/carton.png", "name": "43x199"   },
+        { "img": "/img/carton.png", "name": "50x70"    },
+        { "img": "/img/carton.png", "name": "60x80"    },
+        { "img": "/img/carton.png", "name": "79,5x25,5"},
+        { "img": "/img/carton.png", "name": "80x100"   }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+    {
+      "id": "000031",
+      "family": "Cartón",
+      "mounting": "Microcanal Doble",
+      "formats": [
+        { "img": "/img/carton2.jpg", "name": "45x126" },
+        { "img": "/img/carton2.jpg", "name": "100x30" },
+        { "img": "/img/carton2.jpg", "name": "100x50" },
+        { "img": "/img/carton2.jpg", "name": "120x220"},
+        { "img": "/img/carton2.jpg", "name": "150x50" },
+        { "img": "/img/carton2.jpg", "name": "185x100"}
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+    {
+      "id": "000032",
+      "family": "Cartón",
+      "mounting": "Canal Medio",
+      "formats": [
+        { "img": "/img/carton.jpg", "name": "200x100" },
+        { "img": "/img/carton.jpg", "name": "70x200" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+    {
+      "id": "000033",
+      "family": "Cartón",
+      "mounting": "Micro Sencillo A-2",
+      "formats": [
+        { "img": "/img/carton4.jpg", "name": "42x59,4" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+
+    {
+      "id": "000034",
+      "family": "Cartón",
+      "mounting": "Sandwich",
+      "formats": [
+        { "img": "/img/carton3.jpg", "name": "45x60" },
+        { "img": "/img/carton3.jpg", "name": "45x126" },
+        { "img": "/img/carton3.jpg", "name": "100x30" },
+        { "img": "/img/carton3.jpg", "name": "150x50" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+
+    {
+      "id": "00004",
+      "family": "Carteleria",
+      "mounting": "Cartulina",
+      "formats": [
+        { "img": "/img/cartulina.jpg", "name": "12cm" },
+        { "img": "/img/cartulina.jpg", "name": "24cm" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+    {
+      "id": "00016",
+      "family": "Carteleria",
+      "mounting": "Vinilo",
+      "formats": [
+          { "img": "/img/vinilo.jpg", "name": "20cm" },
+          { "img": "/img/vinilo.jpg", "name": "30cm" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+    {
+      "id": "00017",
+      "family": "Gran Formato",
+      "mounting": "Vinilo GF",
+      "formats": [
+          { "img": "/img/vinilo.jpg", "name": "500cm" },
+          { "img": "/img/vinilo.jpg", "name": "800cm" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    },
+    {
+      "id": "00018",
+      "family": "Gran Formato",
+      "mounting": "Lonas",
+      "formats": [
+          { "img": "/img/lonas.jpg", "name": "500cm" },
+          { "img": "/img/lonas.jpg", "name": "800cm" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
+      ]
+    }
+  ],
+
+  "materials3" : [
+    {
+      "id": "00001",
+      "family": "Hosteleria",
+      "mounting": "Posavasos",
+      "formats": [
+          { "img": "/img/image.png", "name": "Tipo1" },
+          { "img": "/img/image.png", "name": "Tipo2" }
+      ],
+      "providers" : [
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
       ]
     },
     {
       "id": "00002",
-      "mounting": "Canal Medio",
-      "formats": ["200x100"],
+      "family": "Hosteleria",
+      "mounting": "Manteles",
+      "formats": [
+          { "img": "/img/image.png", "name": "Tipo1" },
+          { "img": "/img/image.png", "name": "Tipo2" }
+      ],
       "providers" : [
-        { "id": "", "name": "", "workload": ""}
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
       ]
     },
     {
       "id": "00003",
-      "mounting": "Carton Compacto",
-      "formats": ["3mm"],
+      "family": "Lonas",
+      "mounting": "Lonas Tipo1",
+      "formats": [
+          { "img": "/img/lonas.jpg", "name": "500cm" },
+          { "img": "/img/lonas.jpg", "name": "800cm" }
+      ],
       "providers" : [
-        { "id": "", "name": "", "workload": ""}
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
       ]
     },
     {
-      "id": "00004",
-      "mounting": "Cartulina",
-      "formats": ["12cm"],
+      "id": "00003",
+      "family": "Lonas",
+      "mounting": "Lonas Gran Formato",
+      "formats": [
+          { "img": "/img/lonas.jpg", "name": "5m" },
+          { "img": "/img/lonas.jpg", "name": "10m " },
+          { "img": "/img/lonas.jpg", "name": "20m" }
+      ],
       "providers" : [
-        { "id": "", "name": "", "workload": ""}
+        { "id": "00001", "name": "Imprentas Alcantara", "workload": "60%"}
       ]
-    },
+    }
+  ],
+
+  "materials" : [
     {
       "id": "00005",
       "mounting": "Cartulina Folding",
@@ -375,5 +535,18 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+
+
+  "lamps" : [
+      { "groupBy": "Solicitud", "id": "01", "icon": "assignment", "label": "[21800] Directa - Catálogo - Black Friday 2016", "caption": "0000 / 00000", "info": "10/11/2016" },
+
+      { "groupBy": "En Curso", "id": "22", "icon": "assignment", "label": "Directa - Catálogo - Black Friday 2016", "caption": "21800", "info": "10/11/2016" },
+      { "groupBy": "En Curso", "id": "22", "icon": "assignment", "label": "Directa - Catálogo - Black Friday 2016 Cataluña", "caption": "21800", "info": "10/11/2016" },
+      { "groupBy": "En Curso", "id": "22", "icon": "assignment", "label": "Directa - Catálogo - Black Friday 2016 Canarias", "caption": "21800", "info": "10/11/2016" },
+
+      { "groupBy": "Publicado", "id": "11", "icon": "assignment", "label": "[21800] Directa - Catálogo - Black Friday 2016", "caption": "0000 / 00000", "info": "10/11/2016" },
+      { "groupBy": "Publicado", "id": "33", "icon": "assignment", "label": "[21800] Directa - Catálogo - Black Friday 2016", "caption": "0000 / 00000", "info": "10/11/2016" },
+      { "groupBy": "Publicado", "id": "33", "icon": "assignment", "label": "[21800] Directa - Catálogo - Black Friday 2016", "caption": "0000 / 00000", "info": "10/11/2016" }
+  ]
 }
