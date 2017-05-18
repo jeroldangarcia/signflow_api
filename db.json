@@ -548,5 +548,40 @@
       { "groupBy": "Publicado", "id": "11", "icon": "assignment", "label": "[21800] Directa - Catálogo - Black Friday 2016", "caption": "0000 / 00000", "info": "10/11/2016" },
       { "groupBy": "Publicado", "id": "33", "icon": "assignment", "label": "[21800] Directa - Catálogo - Black Friday 2016", "caption": "0000 / 00000", "info": "10/11/2016" },
       { "groupBy": "Publicado", "id": "33", "icon": "assignment", "label": "[21800] Directa - Catálogo - Black Friday 2016", "caption": "0000 / 00000", "info": "10/11/2016" }
+  ],
+
+
+  "catalogs": [
+    {
+      "id": "1",
+      "name": "Materiales",
+
+      "categories": [
+        { "id": 1 , "parent": 0, "level": "family"  , "name": "GlassPack" },
+        { "id": 2 , "parent": 0, "level": "family"  , "name": "Carton"    },
+        { "id": 11, "parent": 1, "level": "mounting", "name": "Banderola 1"        , "thumb": "/img/glasspack.jpg" },
+        { "id": 12, "parent": 1, "level": "mounting", "name": "400 micras"         , "thumb": "/img/glasspack.jpg" },
+        { "id": 21, "parent": 2, "level": "mounting", "name": "Microcanal Sencillo", "thumb": "/img/carton.jpg"    },
+        { "id": 22, "parent": 2, "level": "mounting", "name": "Microcanal Doble"   , "thumb": "/img/carton.jpg"    },
+        { "id": 23, "parent": 2, "level": "mounting", "name": "Canal Medio"        , "thumb": "/img/carton.jpg"    },
+        { "id": 24, "parent": 2, "level": "mounting", "name": "Sandwich"           , "thumb": "/img/carton.jpg"    }
+      ],
+
+      "products": [
+          { "id": 111, "category": 11, "name": "11 x 80"   },
+          { "id": 112, "category": 11, "name": "60 x 140"  },
+          { "id": 121, "category": 12, "name": "15 cms.Ø"  },
+          { "id": 122, "category": 12, "name": "18 cms.Ø"  },
+          { "id": 123, "category": 12, "name": "6.5 cms.Ø" },
+
+          { "id": 211, "category": 21, "name": "40 x 60"   },
+          { "id": 212, "category": 21, "name": "43 x 199"  },
+          { "id": 213, "category": 21, "name": "50 x 70"   },
+          { "id": 214, "category": 21, "name": "60 x 80"   },
+          { "id": 215, "category": 21, "name": "79.5 x 25.5" },
+          { "id": 124, "category": 21, "name": "80 x 100" }
+      ]
+
+    }
   ]
 }
